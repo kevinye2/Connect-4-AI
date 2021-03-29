@@ -6,4 +6,4 @@ This game has been extensively studied for game theory and AI, and the earliest 
 ## Goals
 Our goal in this project is to explore the different types of search methods (with minimax, alpha-beta pruning, cacheing) to play Connect 4. We want to analyze our results of the game playing itself with different move exploration heuristics as well as different levels of search depth. Some benchmarks will be to measure the time taken to compute up to a certain depth, as well as the number of nodes explored.
 
-[Jupyter analysis](https://github.com/kevinye2/Connect-4-AI/blob/master/Connect%204%20Minimax.ipynb)
+[Jupyter analysis](https://github.com/kevinye2/Connect-4-AI/blob/master/Connect%204%20Minimax.ipynb) (may need to wait a few secs or reload)
